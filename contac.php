@@ -1,5 +1,5 @@
 <?php
-
+<h1>hpangf cao quý đã từng<h1>
 //B1: kết nối đến database
 $con=mysqli_connect("localhost","root","","qlsach")
 or die('Lỗi kết nối');
